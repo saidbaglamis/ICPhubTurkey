@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "phone-book_backend": {
+      "main": "src/phone-book_backend/phonebook.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
